@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39173
     wikipedia: http://en.wikipedia.org/wiki/Giovanni_Verga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37979#Under-the-Shadow-of-Etna--Sicilian-Stories-from-the-Italian-of-Giovanni-Verga
 gutenberg_issued: '2011-11-11'
 gutenberg_type: Text
 identifiers:
