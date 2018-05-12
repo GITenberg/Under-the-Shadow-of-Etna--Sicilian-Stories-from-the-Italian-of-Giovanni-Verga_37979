@@ -1,0 +1,39 @@
+_repo: Under-the-Shadow-of-Etna--Sicilian-Stories-from-the-Italian-of-Giovanni-Verga_37979
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dole, Nathan Haskell
+    alias: Dole, Nathen Haskell
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '36286'
+    url: http://www.gutenberg.org/2009/agents/36286
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verga, Giovanni
+    birthdate: 1840
+    deathdate: 1922
+    gutenberg_agent_id: '39173'
+    url: http://www.gutenberg.org/2009/agents/39173
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Verga
+description: ''
+gutenberg_issued: '2011-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37979'
+  lccn: 08030007
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sicily (Italy) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- Translations into English'
+tableOfContents: How Peppa loved Gramigna -- Jeli, the shepherd -- Rustic chivalry
+  (Cavalleria rusticana) -- La lupa -- The story of St. Joseph's ass -- The bereaved.
+title: 'Under the Shadow of Etna: Sicilian Stories from the Italian of Giovanni Verga'
+url: http://www.gutenberg.org/ebooks/37979
